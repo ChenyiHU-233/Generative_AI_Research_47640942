@@ -5,7 +5,7 @@ It is organized for ease of collaboration, reproducibility, and version control.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 - **.idea/** – Project configuration files (IDE-related, ignored in collaboration).  
 - **Data_Files/** – Raw datasets and processed data used for experiments.  
